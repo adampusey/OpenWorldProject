@@ -1,0 +1,1 @@
+"C:\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor.exe" "E:\Unreal Projects\OpenWorldProject\OpenWorldProject.uproject" -game -ResX=1024 -ResY=768 -WinX=0 -WinY=20 -log
